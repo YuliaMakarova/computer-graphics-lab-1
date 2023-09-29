@@ -1,3 +1,12 @@
+import sys
+import os
+
+# Получите текущий каталог (где находится test_main.py)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Добавьте каталог lab1 (где находится main.py) в sys.path
+sys.path.append(os.path.join(current_dir, '..'))
+
 import unittest
 import tkinter as tk
 from main import CanvasApp
