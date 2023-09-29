@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-informational)](LICENSE)
 [![GitHub release](https://img.shields.io/github/release/YuliaMakarova/computer-graphics-lab-1.svg)](https://github.com/YuliaMakarova/computer-graphics-lab-1/releases/latest)
 
+![](https://github.com/YuliaMakarova/computer-graphics-lab-1/raw/master/example/example.gif)
 
 ## Как использовать
 
@@ -14,11 +15,11 @@
 
 3. В окне приложения вы увидите холст, на котором можно рисовать прямоугольники.
 
-4. Для создания прямоугольника, нажмите клавишу `Enter`.
+4. Для создания прямоугольника нажмите клавишу `Enter`.
 
-5. Для удаления последнего созданного прямоугольника, нажмите клавишу `D`.
+5. Для удаления последнего созданного прямоугольника нажмите клавишу `D`.
 
-6. Для закрытия приложения, нажмите клавишу `Escape` или закройте окно приложения.
+6. Для закрытия приложения нажмите клавишу `Escape` или закройте окно приложения.
 
 ## Как работает приложение
 
